@@ -14,17 +14,6 @@ a{
 a:hover {
     background-color: rgb(192, 184, 174);
 }
-
-
-  @media screen and (min-width: 1200px){
-    .contedu {
-        position: absolute;
-        bottom: 100px;
-        left: 50%;
-        transform: translateX(-50%);
-        text-align: center;
-      }
-  }
   legend{
     color: rgb(221, 35, 221);
   }
