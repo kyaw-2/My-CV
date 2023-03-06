@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+
+p{
+   margin-left: 10px;
+   color: rgb(221, 35, 221);
+}
+h1{
+    text-align: center;
+    color: red;
+}

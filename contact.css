@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+.h1edu, .h2dip, .h2certi{
+    text-align: center;
+    color: red;
+}
+
+a{
+    color: black;
+}
+a:hover {
+    background-color: rgb(192, 184, 174);
+}
+
+
+  @media screen and (min-width: 1200px){
+    .contedu {
+        position: absolute;
+        bottom: 100px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+      }
+  }
+  legend{
+    color: rgb(221, 35, 221);
+  }
+  
+  fieldset{
+    color: rgb(221, 35, 221);
+  }
+  .h2cont{
+    color: red;
+  }
+
+  label{
+    color: rgb(221, 35, 221);
+  }
+table tr th{
+  font-size: 1.5em;
+  color: red;
+}

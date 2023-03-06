@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+legend {
+    text-align: center;
+    color: blue;
+}
+fieldset{
+    background-color: aquamarine;
+    color: rgb(221, 35, 221);
+    width: 80%;
+}
+
+.title{
+    text-align: center;
+}
+.letter{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+@media screen and (max-width: 500px){
+    fieldset{
+        width: 100%;
+    }
+}
+
